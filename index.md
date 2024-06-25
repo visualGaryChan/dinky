@@ -2,8 +2,10 @@
 layout: default
 ---
 
-123 update
-2nd update
+123 update-removed workflow yml, deploy from branch
+2nd update-Deploy from branch
+3rd update-Github Action, no workflow created
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
